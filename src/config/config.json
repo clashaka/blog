@@ -1,32 +1,28 @@
 {
   "site": {
-    "title": "Bookworm Light Astro | Blog Template",
-    "base_url": "https://bookworm-light-astro.vercel.app",
+    "title": "行书指南 | 软件使用教程",
+    "base_url": "https://xszn.org/",
     "base_path": "/",
-    "trailing_slash": false,
-    "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
-    "logo_width": "200",
-    "logo_height": "34",
-    "logo_text": "Bookworm Light"
+    "trailing_slash": true,
+    "favicon": "/images/favicon.ico",
+    "logo": "/images/logo.webp",
+    "logo_width": "48",
+    "logo_height": "48",
+    "logo_text": "行书指南logo"
   },
-
   "settings": {
     "pagination": 5,
     "summary_length": 100
   },
-
   "metadata": {
     "meta_author": "Themefisher",
     "meta_image": "/images/og-image.png",
     "meta_description": "Bookworm Light Astro Blog Template"
   },
-
   "params": {
     "contact_form_action": "#",
-    "copyright": "Copyright © 2023 a theme by [Themefisher](https://themefisher.com)"
+    "copyright": "© 2025 行书指南"
   },
-
   "contactinfo": {
     "address": "355 S Grand Ave <br/> Los Angeles, CA 90071",
     "email": "info@bookworm.org",

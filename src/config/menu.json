@@ -26,7 +26,7 @@
           "url": "/categories"
         },
         {
-          "name": "Tags",
+          "name": "标签",
           "url": "/tags"
         },
         {
@@ -54,7 +54,7 @@
       "url": "/elements"
     },
     {
-      "name": "Privacy Policy",
+      "name": "隐私权政策",
       "url": "/privacy-policy"
     }
   ]
