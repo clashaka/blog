@@ -1,6 +1,6 @@
 ---
 title: "I’m John Doe, A content writer based in LDN, Currently at Bookworm"
-meta_title: "About"
+meta_title: "关于我们 | 行书指南"
 image: "/images/author.png"
 draft: false
 
