@@ -11,21 +11,6 @@
     {
       "name": "标签",
       "url": "/tags"
-    },
-    {
-      "name": "页面",
-      "url": "",
-      "hasChildren": true,
-      "children": [
-        {
-          "name": "作者",
-          "url": "/authors"
-        },
-        {
-          "name": "Elements",
-          "url": "/elements"
-        }
-      ]
     }
   ],
   "footer": [

@@ -1,7 +1,7 @@
 {
   "site": {
-    "title": "行书指南 | 软件使用教程",
-    "base_url": "https://xszn.org/",
+    "title": "行书指南 | 软件使用教程分享",
+    "base_url": "https://xszn.org",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.ico",
@@ -15,17 +15,17 @@
     "summary_length": 100
   },
   "metadata": {
-    "meta_author": "Themefisher",
-    "meta_image": "/images/og-image.png",
-    "meta_description": "Bookworm Light Astro Blog Template"
+    "meta_author": "行书指南",
+    "meta_image": "/images/og-image.webp",
+    "meta_description": "一个软件使用教程分享网站。发现最新热门软件，撰写简单、快速上手的教程文档。"
   },
   "params": {
     "contact_form_action": "#",
     "copyright": "© 2025 行书指南"
   },
   "contactinfo": {
-    "address": "355 S Grand Ave <br/> Los Angeles, CA 90071",
-    "email": "info@bookworm.org",
-    "phone": "+800 567 1234"
+    "address": "",
+    "email": "https://t.me/xszn_org",
+    "phone": "https://youtube.com/@xszn-org"
   }
 }

@@ -1,20 +1,17 @@
 ---
-title: "I’m John Doe, A content writer based in LDN, Currently at Bookworm"
+title: "关于我们"
 meta_title: "关于我们 | 行书指南"
-image: "/images/author.png"
+image: "/images/author.webp"
 draft: false
 
 what_i_do:
-  title: "What I Do"
+  title: "创作领域"
   items:
-  - title: "Content Writing"
+  - title: "内容撰写"
     description: "Purus eget ipsum elementum venenatis, quis rutrum mi semper nonpurus eget ipsum elementum venenatis."
   
-  - title: "Photography"
+  - title: "视频创作"
     description: "Aenean maximus urna magna elementum, quis rutrum mi semper non purus eget ipsum venenatis."
-  
-  - title: "Web Research"
-    description: "Aenean maximus urna magna elementum venenatis, quis semper non purus eget ipsum venenatis."
 
 ---
 
